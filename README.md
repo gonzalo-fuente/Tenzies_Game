@@ -1,5 +1,7 @@
 # Tenzies Game
 
+[Link to the site!](https://gonzalo-fuente.github.io/Tenzies_Game/)
+
 A single version of popular Tenzies game.
 
 ## Rules
